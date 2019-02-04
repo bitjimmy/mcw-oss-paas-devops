@@ -4,6 +4,9 @@ mongoimport --host best-on-lab-50490.documents.azure.com:10255 -u best-on-lab-50
 docker login bestforyouregistry50489.azurecr.io -u bestforyouregistry50489
 sKGfU+nbfSO1cTWCuSStTnmdTl0ftuey
 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqtnOAdMHOw6mkULHyDZ3HSyht5b6j4fDQkevdvv3wtCRj8ZT/b7TFcYCVqFHGqH6oFwjwTRZTVpdS0L78gaZ2kGitJzrpVPLQ1geX+ClIqIW6CT2K+CBzrkbCRJnoVTcA3dJoqHSDfLT8uhlqBhAFoIiqh38XjFMpHO+TEaxixZqvdHKaFDtbyNB70TpiazvMxLHO/4jLZKM6QLNX5g7wN3Nq21CByNDsLGehMf6uYWwUhHL8cXN/subiKBrcsiPb2vYCg+FXdb7+diMbItA1C9UOOBEw5SN8985PDzB+KDs2wevx2eA68jyOl6rQCT9eCm5gRJ4HKShn9J9zUm2l jenkinsadmin@jenkins
+
+
 
 
 bestforyouregistry50489.azurecr.io/best-for-you-organics:latest
