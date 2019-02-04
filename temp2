@@ -1,1 +1,7 @@
 mongoimport --host best-on-lab-50490.documents.azure.com:10255 -u best-on-lab-50490 -p NrL2cZ1DbGb8rmYgVKyJRbR8mx2U1SZwolTz35ca5yDfWdwWDxXlC8Aq5o7Oof99IRMUqA6Uxp6BBr0Hz0NXDQ== --db best-for-you-organics --collection plans --ssl --sslAllowInvalidCertificates --type json --file ~/MongoExport/<your_collection>.json
+
+
+
+
+bestforyouregistry50489/best-for-you-organics:latest
+[registry]/[image name]:[tag]
